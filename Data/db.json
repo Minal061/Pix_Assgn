@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Samay Vyas",
+      "email": "samay46@gmail.com",
+      "phone": "9876543210",
+      "state": "MH",
+      "pincode": "401502",
+      "pancard": "gy34yT5678"
+    },
+    {
+      "id": "2",
+      "name": "Swati Patel",
+      "email": "swati90@gmail.com",
+      "phone": "9876500892",
+      "state": "RJ",
+      "pincode": "678543",
+      "pancard": "98Gy0089y7"
+    },
+    {
+      "id": "3",
+      "name": "Ramesh Kamat",
+      "email": "rameshk77@gmail.com",
+      "phone": "9876543210",
+      "state": "AP",
+      "pincode": "401502",
+      "pancard": "HGU87I93WS"
+    },
+    {
+      "id": "4",
+      "name": "Akilash Reddy",
+      "email": "reddyakik@gmail.com",
+      "phone": "7892312900",
+      "state": "Goa",
+      "pincode": "501409",
+      "pancard": "tb6789067j"
+    },
+    {
+      "id": "5",
+      "name": "Minal Patil",
+      "email": "minal15@gmail.com",
+      "phone": "6789293994",
+      "state": "MH",
+      "pincode": "401504",
+      "pancard": "7GY89365l5"
+    },
+    {
+      "id": "6",
+      "name": "Himanshu U",
+      "email": "Himanshu@04gmail.com",
+      "phone": "7841709654",
+      "state": "RJ",
+      "pincode": "401504",
+      "pancard": "yh56f45g89"
+    }
+  ]
+}
